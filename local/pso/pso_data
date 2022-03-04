@@ -1,0 +1,66 @@
+Cluster Au
+Parameters
+UNF  1.000
+c1  2.000
+c2  2.000
+COC  0.730
+NPAR  150.000
+EDIFF  0.000
+LSS  3.000
+ELIR  0.400
+WEIGHT  0.900
+GER  1.000
+PREX  3.000
+FIX2  0.000  
+PATH  0.005
+VMAX  0.100
+SCO  0.050
+DCO  2.000
+ZMAX  1.000  1.000  1.000  
+ZMIN  0.000  0.000  0.000  
+VAC  0.000  0.000  15.000  
+PBC  0.000  0.000  0.000  
+CUO  0.800  1.600  
+LPAIR  1.000
+LPRELAX  1.000
+--------Substrate's Atoms' Positions:--------
+10.0000000000000000  10.0000000000000000  10.0000000000000000  
+**********************************
+Generation 2
+Generation 3
+Generation 4
+Generation 5
+Generation 6
+Generation 7
+Generation 8
+Generation 9
+Generation 10
+Generation 11
+Generation 12
+Generation 13
+Generation 14
+Generation 15
+Generation 16
+Generation 17
+Generation 18
+Generation 19
+Generation 20
+Generation 21
+Generation 22
+Generation 23
+Generation 24
+Generation 25
+Generation 26
+Generation 27
+Generation 28
+Generation 29
+Generation 30
+Generation 31
+Generation 32
+Generation 33
+Generation 34
+Generation 35
+Generation 36
+Generation 37
+Generation 38
+Generation 39
